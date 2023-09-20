@@ -1,0 +1,69 @@
+body {
+    background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFihOxM_VQ6w_grA_sVo5sVqKkCi0yhhbM4w&usqp=CAU);
+ 
+
+    background-position: top right;
+    
+    background-repeat: no-repeat;
+    background-color: #E6E6E6;
+    font-family: Arial;
+    font-size: medium;
+ 
+  }
+  h1 {
+color: #5210eb;
+
+  }
+  h2 {
+    color: #5210eb;
+    
+      }
+      h3{
+        color:goldenrod;
+        
+          }
+          ul {
+            list-style-type: square;
+        }
+        ol {
+            list-style-type: upper-roman;
+        }
+       
+        ol ol {
+          list-style-type: lower-roman;
+
+        }
+        a:visited{
+
+        text-decoration: none;
+        color: red;
+        }
+        a:link{
+          text-decoration: none;
+          color: blue;
+        }
+        a:hover{
+
+          text-decoration: underline;
+          color: green;
+        }
+        a:active{
+          text-decoration: underline;
+          color: black;
+        }
+        .myclass{
+          font-size: medium;
+          color: darkolivegreen;
+          font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+        }
+        .cclass{
+          font-family: Arial, Helvetica, sans-serif;
+          font-size: larger;
+          color: darkgreen;
+        }
+
+
+
+            
+    
